@@ -1,2 +1,2 @@
-[requieres]
-Poco/1.9.0@pocoproject/stable
+[requires]
+fmt/5.2.1@bincrafters/stable
