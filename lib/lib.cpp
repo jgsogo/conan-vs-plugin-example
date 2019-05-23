@@ -5,5 +5,6 @@
 
 int hello() {
     std::cout << fmt::format("afsdfas") << std::endl;
+    return 0;
 }
 
